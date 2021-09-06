@@ -64,4 +64,4 @@ Or follow the suitable short guide bellow:
 Any issues with the installation or usage of RDRP scripts please head over to our docs for guidance https://docs.rdrp.gg/
 
 ## 5. Credits
-Author : @NeonOdyssey
+Author : [@NeonOdyssey](https://github.com/NeonOdyssey/)
