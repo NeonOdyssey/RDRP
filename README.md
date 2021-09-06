@@ -1,6 +1,6 @@
 # Red Dead - Roleplay - The only roleplay framework you need for RedEM
 
-![RDRP - Banner with spinning wheel]()
+![RDRP - Banner with spinning wheel](https://github.com/NeonOdyssey/RDRP/blob/main/animation_500_kt93cy35.gif)
 
 ![](https://img.shields.io/github/languages/code-size/NeonOdyssey/RDRP) ![](https://img.shields.io/github/downloads/NeonOdyssey/RDRP/total) ![](https://img.shields.io/github/v/release/NeonOdyssey/RDRP) ![](https://img.shields.io/github/issues/NeonOdyssey/RDRP)
 
