@@ -1,4 +1,4 @@
-# Red Dead - Roleplay - The only roleplay framework you need for RedEM
+# Red Dead - Roleplay - The only roleplay framework you need for RedM
 
 ![RDRP - Banner with spinning wheel](https://github.com/NeonOdyssey/RDRP/blob/main/banner.png)
 
