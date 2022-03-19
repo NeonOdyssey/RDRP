@@ -1,4 +1,4 @@
-# Red Dead - Roleplay - The only roleplay framework you need for RedM
+# Red - Roleplay - The only roleplay framework you need for RedM
 
 ![RDRP - Banner with spinning wheel](https://github.com/NeonOdyssey/RDRP/blob/main/banner.png)
 
@@ -28,7 +28,7 @@ For all installation procedures you must have git installed:
 
 - **Windows:** [Download](https://git-scm.com/download/win)
 
-Once Git is installed you can either follow the indepth tutorial on our docs https://docs.rdrp.gg/core/install
+Once Git is installed you can either follow the indepth tutorial on our docs https://rdrp.pixelperfect.gg/docs/core/install
 
 Or follow the suitable short guide bellow:
 
